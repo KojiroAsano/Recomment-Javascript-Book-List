@@ -30,7 +30,7 @@
 
   
 ## Usage:
-**[Live app]()**
+**[Live app](https://kojiroasano.github.io/Recomment-Javascript-Book-List/)**
   <p>If successfully installed and run on the Web browser, the book list shows up!! </p>
   
 ## Support:
